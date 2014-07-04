@@ -6,7 +6,7 @@ Zadanie_1.1
 ####Пояснения:
 Зная площадь поверхности шара,можно вычислить радиус:
 
-<img src="http://latex.codecogs.com/gif.latex?S=4*\pi*R&space;\Rightarrow&space;R=\frac{S}{4\pi}" title="S=4*\pi*R \Rightarrow R=\frac{S}{4\pi}" />
+<img src="http://latex.codecogs.com/gif.latex?S=4\pi*R^2&space;\Rightarrow&space;R=\sqrt{\frac{S}{4\pi}}" title="S=4\pi*R^2 \Rightarrow R=\sqrt{\frac{S}{4\pi}}" />
 
 Объем шара легко найти,зная радиус :
 
