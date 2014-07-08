@@ -24,7 +24,7 @@ namespace Radius_V
             Console.WriteLine(radius);
             Console.WriteLine();
 
-            V = (4 / 3) * Math.Pow(radius, 3) * Math.PI;//Расчет объема шара
+            V = (4  * Math.Pow(radius, 3) * Math.PI)/3;//Расчет объема шара
 
             Console.WriteLine("Объем шара ");
             Console.WriteLine(V);
